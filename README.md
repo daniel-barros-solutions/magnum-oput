@@ -1,3 +1,3 @@
 # magnum-opus
 
-This is a team project.
+Repo for the Magnum Opus project.
